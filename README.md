@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Salom, men Bektemur!
 
-<!--
-**Bektemir103099/Bektemir103099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend dasturchiman va hozirda **Full Stack Dasturchi** bo'lish yo'lida JavaScript hamda backend texnologiyalarini chuqur o'rganmoqdaman.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Men haqimda
+- 💻 **Yo'nalish:** Frontend Development (HTML, CSS, JS) & Full Stack Development ga intilish
+- 🎨 **Dizayn & 3D:** Web loyihalar va Blender dasturida 3D modellashtirish
+- 🧮 **Kuchli tomonim:** Analitik fikrlash va Matematika
+- 🌐 **Tillar:** O'zbek, Ingliz va Rus tillari (sobiq tarjimonlik tajribasiga ega)
+- 🎯 **Maqsad:** Murakkab, interaktiv va yuqori unumdorlikka ega web ilovalar yaratish
+
+---
+
+### 🛠️ Texnologiyalar & Asboblar
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Backend & DB:** Django, Python
+- **3D Graphics:** Blender
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📬 Men bilan bog'lanish
+- **Email:** bektemirovbektemur@gmail.com
+- **GitHub:** [@Bektemir103099](https://github.com/Bektemir103099)
