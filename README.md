@@ -1,6 +1,11 @@
+
 # 👋 Hi, I'm Bektemur!
 
-Frontend Developer aspiring to become a **Full-Stack Developer**, currently diving deep into JavaScript and backend technologies.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=Frontend+%7C+Aspiring+Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python;3D+Web+Graphics+(Blender+%2F+Three.js);Building+Interactive+%26+High-Performance+Apps;Cybersecurity+%26+Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -8,16 +13,16 @@ Frontend Developer aspiring to become a **Full-Stack Developer**, currently divi
 - 💻 **Focus:** Frontend Development (HTML, CSS, JS) & transitioning into Full-Stack Development
 - 🎨 **Design & 3D:** Web projects and 3D modeling with Blender
 - 🧮 **Strengths:** Analytical thinking and Mathematics
-- 🌐 **Languages:** Uzbek, English, and Russian (prior translation experience)
+- 🌐 **Languages:** Uzbek, English, and Russian
 - 🎯 **Goal:** Building complex, interactive, and high-performance web applications
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend & DB:** Django, Python
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap
+- **Backend & DB:** Django, Python, Node.js
 - **3D Graphics:** Blender
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, Linux, VirtualBox
 
 ---
 
