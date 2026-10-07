@@ -20,12 +20,19 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Software & Systems:** C/C++, Python, Linux (BlackArch, Arch), VirtualBox, OS Development Tools
-- **Cybersecurity & Labs:** Network Analysis, Terminal Utilities, Security Toolkits & Environments
-- **Frontend & Web:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap
-- **Backend & DB:** Django, Python, Node.js
-- **3D Graphics:** Blender
-- **Tools:** Git, GitHub, VS Code, Linux CLI
+
+<!-- Rasmda ko'rsatilgan ko'nikma nishonlari (Skils Badges) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NEOVIM-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
+  <img src="
 
 ---
 
