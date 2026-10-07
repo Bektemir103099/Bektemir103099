@@ -32,6 +32,5 @@
 ### 📬 Connect with Me
 - **Email:** [bektemirovbektemur@gmail.com](mailto:bektemirovbektemur@gmail.com)
 - **GitHub:** [@Bektemir103099](https://github.com/Bektemir103099)
-- ### 🐍 My Contributions Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Bektemir103099/Bektemir103099/output/github-contribution-grid-snake-dark.svg)
