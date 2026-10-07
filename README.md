@@ -16,8 +16,16 @@
 - 🧮 **Strengths:** Analytical thinking, Mathematics, and Low-Level / High-Level System Architecture
 - 🌐 **Languages:** Uzbek, English, and Russian
 - 🎯 **Goal:** Developing secure, high-performance software, systems, and full-stack web applications
+- 
 
 ---
+
+- **Software & Systems:** C/C++, Python, Linux (BlackArch, Arch), VirtualBox, OS Development Tools
+- **Cybersecurity & Labs:** Network Analysis, Terminal Utilities, Security Toolkits & Environments
+- **Frontend & Web:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap
+- **Backend & DB:** Django, Python, Node.js
+- **3D Graphics:** Blender
+- **Tools:** Git, GitHub, VS Code, Linux CLI
 
 
 <!-- Yashil minimalist ko'nikma nishonlari -->
@@ -35,12 +43,7 @@
   <img src="https://img.shields.io/badge/KALI%20LINUX-00FF66?style=for-the-badge&logo=kali-linux&logoColor=black" alt="Kali Linux" />
 </p>
 
-- **Software & Systems:** C/C++, Python, Linux (BlackArch, Arch), VirtualBox, OS Development Tools
-- **Cybersecurity & Labs:** Network Analysis, Terminal Utilities, Security Toolkits & Environments
-- **Frontend & Web:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap
-- **Backend & DB:** Django, Python, Node.js
-- **3D Graphics:** Blender
-- **Tools:** Git, GitHub, VS Code, Linux CLI
+
 
 ---
 
